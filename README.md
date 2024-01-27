@@ -17,4 +17,4 @@ Special thanks for porting the original algorithm, even though it was in prototy
 https://github.com/kchapelier/wavefunctioncollapse
 
 License
-MIT
+Apache 2.0
